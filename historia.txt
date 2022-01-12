@@ -1,5 +1,3 @@
 este es un archivo de prueba
-para el curso de git
-ahi la llevamos, jejeje
-modificado una vez mas
-otro cambio su vida y obra maestra
+para el curso de gitgit
+mañana nos enfocaremnos en su vida laboral
